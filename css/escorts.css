@@ -175,10 +175,15 @@ body{
     
     .hide{display: none;}
     .lista-chicas{
+        width: 100%;
         flex-direction: column;
         padding: 10px 0;
+      
     }
     .lista-chicas li {
+   
+        border-bottom: 1px dotted #63cc7b;
+        
         margin: 10px;
     }
 

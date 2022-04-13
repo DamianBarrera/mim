@@ -4,8 +4,8 @@ const galeria = document.querySelector('.galeria');
 const search = document.querySelector('.search');
 
 
-const nombreChicas = [ "demi","rosiris","daniela","marisol","danielle","juliana","daniella chavez",
-"estephania","ana cheri","abigail","anastasiya","angie","becky","sophie","jessica","riae"]
+const nombreChicas = ["jessica","emily","demi","rosiris","daniela","marisol","danielle","juliana","daniella chavez",
+"estephania","ana cheri","abigail","anastasiya","angie","becky","sophie","riae"]
 
 // Inserta imagenes en la galeria 
 

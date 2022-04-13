@@ -13,8 +13,8 @@ const nombreChicas = [ "demi","rosiris","daniela","marisol","danielle","juliana"
     const div = document.createElement('div');
     div.classList.add('card')
 
-    div.innerHTML = `<a href="../chicas/${N}.html" >
-                        <img src="../img/${N}/${N}1.jpg" alt="${N}" title="Encuentros Casuales | ${N}">
+    div.innerHTML = `<a href="./chicas/${N}.html" >
+                        <img src="./img/${N}/${N}1.jpg" alt="${N}" title="Encuentros Casuales | ${N}">
                      </a>
                       <p class="name">${N}</p>  `
 
